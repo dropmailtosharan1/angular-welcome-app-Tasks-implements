@@ -1,0 +1,26 @@
+.right-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.name-age-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.name-box,
+.age-box {
+  flex: 1;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.deleted-names-box {
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}

@@ -1,0 +1,12 @@
+.left-box {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+}
+
+.added-names-ages {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
